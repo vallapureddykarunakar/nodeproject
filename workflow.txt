@@ -1,0 +1,7 @@
+Project Name : Nodejs 
+Langugae : Nodejs, Express mysql
+Database: Mysql
+Web technologies : HTML,CSS,Bootstrap 
+
+
+
